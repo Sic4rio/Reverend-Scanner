@@ -1,5 +1,5 @@
-# Scanner
-Help automate WebApp testing.
+# Reverend Scanner
+A tool to help automate WebApp testing.
 
 To run:
 ```
