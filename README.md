@@ -1,5 +1,5 @@
-# Scripts
-Plain Jane Scripts
+# Scanner
+Help automate WebApp testing.
 
 To run:
 ```
